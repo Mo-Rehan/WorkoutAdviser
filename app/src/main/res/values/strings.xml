@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Workout Adviser</string>
+    <string name="WorkoutButton">Show Workout</string>
+    <string name="workoutname">Your Workout Here</string>
+
+</resources>

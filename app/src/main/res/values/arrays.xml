@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Bodyparts">
+        <item>Select Type</item>
+         <item>Chest</item>
+        <item>Shoulder</item>
+        <item>Biceps</item>
+        <item>Back</item>
+        <item>Triceps</item>
+    </string-array>
+</resources>
